@@ -1,1 +1,1 @@
-String API_ENDPOINT = "http://10.160.65.244:3000";
+String API_ENDPOINT = "http://192.168.114.251:3000";
